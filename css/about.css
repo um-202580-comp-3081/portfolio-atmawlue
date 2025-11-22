@@ -1,0 +1,14 @@
+.main {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background-image: url(''); /* Replace with your actual image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #333;
+}
+
+h1 {
+  color: #e67e22;
+  font-size: 3rem;
+}
